@@ -86,7 +86,7 @@ Arduino是一个开源的开发平台，在全世界范围内成千上万的人�
 [门禁系统测试机](cc.glrsmart.com)
 * 项目内容
 二道门是化工企业厂区范围内用于隔离生产区域和办公、生活等非生产区域的设施。一般通过人工或自动控制方式，采用升降杆、伸缩门、门禁系统等形式，对生产区域各岗位在线工作人数动态显示，并对斌业职工、外来作业人员及其他人员分类统计；对进出车辆进行有效的统计、记录与监管。其目的：一是严格禁止易引发火灾、爆炸等生产安全事故的火种、电器及其他各类非防爆设备进入防爆区域；二是从严控制未经批准、未经培训等无关人员或车辆擅自进入生产区域；三是在发生生产安全事故时，能在时间准确掌握涉仕员情况，便于及时有效救援。
-![CCP门禁管理系统.png](http://upload-images.jianshu.io/upload_images/2433593-e0781901d084995b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/540)
+![CCP门禁管理系统.png](https://upload-images.jianshu.io/upload_images/2433593-e0781901d084995b.png?imageMogr2/auto-orient/)
 ![车载刷卡App](http://upload-images.jianshu.io/upload_images/2433593-0fe53c8e8c42bba0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 
 
